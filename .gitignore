@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Dependencies & Build Outputs
+node_modules/
+dist/
+tmp/
+*.exe
+*.log
